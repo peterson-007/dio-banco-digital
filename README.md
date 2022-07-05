@@ -5,5 +5,5 @@ Além disso, inclui alguns métodos necessários como, por exemplo, o método "e
 
 Abaixo uma demonstração do método "listarContas" que chama o métodeo "imprimirExtrato" de cada conta.
 
-![](https://im5.ezgif.com/tmp/ezgif-5-4fb8b4aab7.gif)
+![](https://github.com/peterson-007/dio-banco-digital/blob/master/Demostracao%20banco%20digital%20(1).gif)
 
